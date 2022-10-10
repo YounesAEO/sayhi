@@ -1,5 +1,5 @@
 ## Description
-This repo is a simple webapp to interact with [sayhi](https://github.com/YounesAEO/sayhi-contract) smart contract. You can send me a meme or a dad joke via a blockchain transaction and if you have a good sense of humour you can get some eth... Well, fake eth bcs im broke :). This project was built using [Replit](https://replit.com/) which is a web-based IDE.
+This repo is a simple webapp to interact with [sayhi](https://github.com/YounesAEO/sayhi-contract) smart contract. You can send me a meme or a dad joke via a blockchain transaction and if you have a good sense of humour you can get some eth... Well, fake eth bcs im broke :). This project was built using [Replit](https://replit.com/) which is a web-based IDE that simplifies dev environment setup and eliminates the pain of deployment. You can easily fork the project (here)[https://replit.com/@YounesAEO/Say-Hi], make changes, add your touch on it and immediately see changes on your website.
 
 ## Dependencies
 
