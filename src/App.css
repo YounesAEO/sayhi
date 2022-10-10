@@ -1,0 +1,61 @@
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 64px;
+}
+
+.dataContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 600px;
+}
+
+.header {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600;
+}
+
+body{
+  background:#edf2f4;
+}
+.header{
+  color:#2b2d42;
+}
+.bio {
+  text-align: center;
+  color: #8d99ae;
+  margin-top: 16px;
+}
+
+.waveButton {
+  cursor: pointer;
+  margin-top: 16px;
+  padding: 8px;
+  border: 0;
+  border-radius: 5px;
+  background:#2b2d42;
+  color:#edf2f4;
+  
+}
+
+.waveButton:hover {
+  background:#8d99ae;
+}
+
+.waveButton:disabled {
+  background:gray;
+  cursor:not-allowed;
+}
+
+input {
+  margin: 1rem 0 0 0;
+  padding: 0.8rem;
+	border-radius: 0.5rem;
+	background: transparent;
+	border: 2px solid #2b2d42;
+  color: #2b2d42;
+	resize: none;
+}
